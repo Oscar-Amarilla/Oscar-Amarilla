@@ -6,7 +6,7 @@
 </picture>
   </h1>
 
-<h3 align="center">A machine learning enthusiast and a passionate learner from Paraguay.</h3>
+<h3 align="center">A machine learning enthusiast and passionate learner from Paraguay.</h3>
 
 **<h2 align="left"> About me:</h2>**
 - My interestes are focused on developing business strategies and market solutions from **data and machine learning applications**. 
